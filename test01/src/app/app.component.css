@@ -1,0 +1,16 @@
+.container {
+    display: -webkit-flex;
+    display: flex;
+    
+}
+
+nav {
+    width: 200px;
+    background-color: red;
+}
+
+.flex-column {
+    -webkit-flex: 1;
+            flex: 1;
+background-color: blue;
+}
